@@ -1,0 +1,12 @@
+project\rindus\springBackend\responseBodies\UserResponseData$Address$Geo.class
+project\rindus\springBackend\responseBodies\UserResponseData.class
+project\rindus\springBackend\service\JsonPlaceHolderService.class
+project\rindus\springBackend\service\ApiRestService.class
+project\rindus\springBackend\controller\ApiRestController.class
+project\rindus\springBackend\configuration\JsonPlaceHolderBean.class
+project\rindus\springBackend\SpringBackendApplication.class
+project\rindus\springBackend\configuration\RestTemplateConfiguration.class
+project\rindus\springBackend\configuration\CorsConfiguration.class
+project\rindus\springBackend\exception\CallFailedException.class
+project\rindus\springBackend\responseBodies\UserResponseData$Address.class
+project\rindus\springBackend\configuration\JsonPlaceHolderConfiguration.class

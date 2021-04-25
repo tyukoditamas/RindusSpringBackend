@@ -1,0 +1,15 @@
+jsonPlaceHolder:
+  baseUrl: "https://jsonplaceholder.typicode.com/"
+  users: "users/"
+  albums: "albums/"
+  todos: "todos/"
+
+security:
+  username: user
+  password: pass
+
+logging:
+  level:
+    org:
+      springframework:
+        security: DEBUG
